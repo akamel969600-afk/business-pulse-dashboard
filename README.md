@@ -1,17 +1,11 @@
-# Business Pulse Dashboard
 
-CEO-level Business Overview Dashboard built with React, Tailwind CSS v4, and Recharts.
+  # Executive Business Dashboard Redesign
 
-## Features
-- KPI cards with RAG status (Red/Amber/Green)
-- Revenue vs Target trajectory chart with stacked bars
-- Critical risks radar
-- Smart tooltips with drill-down details
-- All currency in SAR (Saudi Riyal)
+  This is a code bundle for Executive Business Dashboard Redesign. The original project is available at https://www.figma.com/design/7X6tMEaThPEJaHlBEmDnac/Executive-Business-Dashboard-Redesign.
 
-## Getting Started
+  ## Running the code
 
-```bash
-npm install
-npm run dev
-```
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
